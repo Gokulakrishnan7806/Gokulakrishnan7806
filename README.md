@@ -20,8 +20,5 @@ With strong problem-solving skills and a commitment to continuous learning.
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Gokulakrishnan7806&icon=0&color=0)](https://visitcount.itsvg.in)
