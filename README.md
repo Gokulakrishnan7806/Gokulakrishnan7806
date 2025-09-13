@@ -1,5 +1,5 @@
 # 💫About Me :
-Hi, I'm GOKULAKRISHNAN , a passionate Computer Science Engineering student and Java full-stack developer with a focus on backend technologies like Java, Spring Boot, JDBC, MySQL, and APIs. I enjoy building scalable applications and teaching others what I’ve learned
+Hi, I'm GOKULAKRISHNAN , a passionate Computer Science Engineering student and Software Developer with a focus on backend technologies like Java, Spring Boot, JDBC, MySQL, and APIs. I enjoy building scalable applications and teaching others what I’ve learned
 Currently, I am teaching Java, Spring Boot, Servlets, JSP, and MySQL . I love simplifying complex programming concepts and guiding students toward practical implementation.
 
 With strong problem-solving skills and a commitment to continuous learning.
